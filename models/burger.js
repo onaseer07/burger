@@ -1,6 +1,6 @@
 //importing the orm module;
 var orm = require('../config/orm.js');
-var express = require('express');
+
 //create burgers db function to perform CRUD operations
 var burgers = {
 
